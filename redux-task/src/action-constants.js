@@ -1,0 +1,6 @@
+const ACTION_TYPES = {
+    SIMPLE_ACTION: 'SIMPLE_ACTION',
+    SET_SELECTION: 'SET_SELECTION',
+    LOGIN: 'LOGIN'
+};
+export default ACTION_TYPES;
